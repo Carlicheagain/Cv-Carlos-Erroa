@@ -1,0 +1,12 @@
+@font-face {
+    font-family: fac;
+    src: url();
+}
+
+body {
+background-color: white;
+}
+header {
+    display: flex;
+    background-color: cornflowerblue;
+}
